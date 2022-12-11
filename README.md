@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django , Django Rest Frame Work From Meta Backend Specialization.**
 
-- 📄 Know about my experiences [shorturl.at/aFMN2](shorturl.at/aFMN2)
+- 📄 Know about my experiences [My Resume]([shorturl.at/aFMN2](https://drive.google.com/file/d/1XPZVIczTnW16bg7dMtC4f8JNm7L8UeKM/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

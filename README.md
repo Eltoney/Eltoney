@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed Eltoney</h1>
 <h3 align="center">Fresh Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eltoney" alt="eltoney" /></a> </p>
 
 - 🌱 I’m currently learning **Django , Django Rest Frame Work From Meta Backend Specialization.**
 

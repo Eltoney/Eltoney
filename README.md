@@ -2,7 +2,13 @@
 <h3 align="center">Fresh Software Engineer</h3>
 
 
-- 🌱 I’m currently learning **Django , Django Rest Frame Work From Meta Backend Specialization.**
+- 🌱 As a Junior Software Developer specializing in Django, I have honed my skills in backend development and CI/CD pipeline management using Github Actions and AWS. I was part of a dynamic remote team in an innovative Indian startup that empowers stock investors with effective portfolio management solutions.
+
+Over this project, I have not only deepened my knowledge of Django, AWS, and Digital Ocean but also expanded my repertoire with Java and Javascript. My responsibilities have ranged from developing new functionalities in Django applications and ensuring code quality through rigorous testing to troubleshooting and resolving complex bugs. I take pride in my proactive involvement in managing the CI/CD process via GitHub Actions and AWS servers, which has significantly optimized the efficiency of our software development lifecycle.
+
+Driven by a constant thirst for learning and a keen eye for detail, I aim to bring value to teams that champion innovation, collaboration, and excellence in software development.
+
+I am currently exploring new opportunities that allow me to further expand my technical expertise and make a substantial impact. I am particularly interested in roles that offer challenging problems, opportunities for growth, and a collaborative and innovative work environment. If you believe I could be a fit for your team or project, I invite you to reach out to me directly. I look forward to connecting and discussing potential collaborations.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

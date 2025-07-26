@@ -2,13 +2,20 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 🌱 As a Software Developer specializing in Django, I have honed my skills in backend development and CI/CD pipeline management using Github Actions and AWS. I was part of a dynamic remote team in an innovative Indian startup that empowers stock investors with effective portfolio management solutions.
+I’m Ali Eltoney, a passionate Software Engineer with over 2 years of hands‑on experience building scalable, full‑stack web applications. I thrive at the intersection of Python, Django, and React, backed by a solid foundation in PostgreSQL, AWS, and modern DevOps practices.
 
-Over this project, I have not only deepened my knowledge of Django, AWS, and Digital Ocean but also expanded my repertoire with Java and Javascript. My responsibilities have ranged from developing new functionalities in Django applications and ensuring code quality through rigorous testing to troubleshooting and resolving complex bugs. I take pride in my proactive involvement in managing the CI/CD process via GitHub Actions and AWS servers, which has significantly optimized the efficiency of our software development lifecycle.
+At Dubizzle, I redesigned key user‑engagement features, optimized delivery flows, and restored critical functionality for thousands of users across multiple regions. Previously at Gridkey Technologies, I reduced data-fetching times from hours to seconds and led a seamless migration of a core stock-price manager from Java to Python.
 
-Driven by a constant thirst for learning and a keen eye for detail, I aim to bring value to teams that champion innovation, collaboration, and excellence in software development.
+Outside of work, I’m a competitive programmer ranked in the top 3.5% on LeetCode and a top-performing participant in ACPC/ECPC contests. I also built and launched a telehealth platform with real‑time chat, secure payments, and subscription plans.
 
-I am currently exploring new opportunities that allow me to further expand my technical expertise and make a substantial impact. I am particularly interested in roles that offer challenging problems, opportunities for growth, and a collaborative and innovative work environment. If you believe I could be a fit for your team or project, I invite you to reach out to me directly. I look forward to connecting and discussing potential collaborations.**
+I’m always learning, open to new challenges, and ready to collaborate on projects that make an impact. Let’s connect!
+
+🎓 Credentials & Community
+B.Sc. in Computer Science
+
+
+🌟 What Drives Me
+I’m fueled by solving complex problems—whether debugging a tricky race condition in production or designing a machine‑learning prototype. I love collaborating in cross‑functional teams, mentoring junior developers, and continuously exploring new technologies like machine learning, WebAssembly, and edge computing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
